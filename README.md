@@ -3,4 +3,4 @@
 ![123](https://github.com/Aaron19991211/c_easyx-minigame/blob/main/1.png)
 ## 游戏界面
 ![234](https://github.com/Aaron19991211/c_easyx-minigame/blob/main/2.png)
-### 具体数据结构、图片素材及函数代码见项目文件
+### 具体数据结构、各种素材及模块代码见项目文件
